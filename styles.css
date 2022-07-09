@@ -1,0 +1,24 @@
+
+
+.container {
+    margin: 5px;
+}
+
+#cards-dinamicas{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 3px;
+}
+
+.body {
+    margin: 8px;
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.75);
+    border-radius: 10px;
+    text-align: center;
+}
+
+h5 {
+    color: blue;
+}
+
